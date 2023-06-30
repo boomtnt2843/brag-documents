@@ -3,7 +3,7 @@
 
 * List the major goals here!
 
-## Goals for next 
+## Next Goals 
 
 * If it's getting towards the end of the year, maybe start writing down what might be the goals for next year.
 
