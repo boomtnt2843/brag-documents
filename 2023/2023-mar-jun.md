@@ -1,5 +1,4 @@
-[**⬅️**](2023-summary.md)
-# home / [2023](2023-summary.md) / # Mar 2023 - Jun 2023
+# [home](../README.md) / [2023](2023-summary.md) / Mar 2023 - Jun 2023
 // now -> writing . . . 
 ## Goals 
 - การทบทวนความรู้ต่างๆและการปรับใช้กับงานในปัจุบัน
