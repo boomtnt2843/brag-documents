@@ -29,4 +29,8 @@
   - เป็น mini-project จาก[www.frontendmentor.io](www.frontendmentor.io) 
   - stack: react + tailwind (project ฝึก tailwind เล่นๆ)
   - ตอนนี้ยังเหลือการ validation field
-  - link: [calculate-age-web](https://web-calculate-age.vercel.app/) 
+  - link: [calculate-age-web](https://web-calculate-age.vercel.app/)
+ 
+## What I learn?
+
+
