@@ -20,4 +20,13 @@
 
 ## Project & Mini-Project
 
-- การมีส่วนร่วมในการพัฒนาเว็บแสดงผลเลือกตั้ง 2566 ให้กับทางเดลินิวส์
+- การมีส่วนร่วมในการพัฒนาเว็บแสดงผลเลือกตั้ง 2566 ให้กับทางเดลินิวส์ (odd-e thailand) ซึ่งเวลาในการลงมือเขียนโปรแกรมจริงมีประมาณ 10 วันนิดๆ
+  - ช่วงแรกสุดของการทำได้มีร่วมกันเก็บข้อมูล project กับทางทีมทั้งเรื่อง design & stack ในการพัฒนา
+  - โดยส่วนใหญ่จะได้ช่วยการในการทำหน้าเว็บไซต์(react) ในการจัด layout, component, หน้า IFrame ของเว็บ และการ support issue บนหน้าเว็บ
+  - link: [election-2023-web](https://election66.dailynews.co.th/country)
+
+- เว็บคำนวณอายุแบบเกิดมากี่วันกี่เดือนกี่ปี (to be continue...)
+  - เป็น mini-project จาก[www.frontendmentor.io](www.frontendmentor.io) 
+  - stack: react + tailwind
+  - ตอนนี้ยังเหลือการ validation field
+  - link: [calculate-age-web](https://web-calculate-age.vercel.app/) 
