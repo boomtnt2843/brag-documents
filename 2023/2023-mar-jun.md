@@ -24,7 +24,7 @@
   - link: [election-2023-web](https://election66.dailynews.co.th/country)
 
 - เว็บคำนวณอายุแบบเกิดมากี่วันกี่เดือนกี่ปี (to be continue...)
-  - เป็น mini-project จาก[www.frontendmentor.io](www.frontendmentor.io) 
+  - เป็น mini-project จาก [www.frontendmentor.io](www.frontendmentor.io) 
   - stack: react + tailwind (project ฝึก tailwind เล่นๆ)
   - ตอนนี้ยังเหลือการ validation field
   - link: [calculate-age-web](https://web-calculate-age.vercel.app/)
