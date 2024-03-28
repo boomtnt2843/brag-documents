@@ -2,7 +2,9 @@
 
 ## Next Goals 
 
-- TMD
+- Profolio web by Sveltekit [ตอนนี้มีweb เปล่า](https://saynum-portfolio.vercel.app/)
+- 101 blender การทำ model 3D
+- css animation challenge 4 โจทย์
 
 ## Project & Mini-Project
 
