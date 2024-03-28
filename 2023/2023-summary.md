@@ -3,4 +3,4 @@
 brag document ปี 2023 ในแต่ละช่วงของปี
 - [Mar - Jun](2023-mar-jun.md)
 - [Jul - Sep](2023-jul-sep.md)
-- Oct - Dec
+- [Oct - Dec](2023-oct-dec.md)
