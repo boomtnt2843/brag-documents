@@ -1,4 +1,4 @@
-# [Home](../README.md) / [2024](2023-summary.md) / Jan 2023 - Mar 2023
+# [Home](../README.md) / [2024](2023-summary.md) / Jan 2024 - Mar 2024
 
 ## Goals 
 
@@ -9,7 +9,7 @@
 
 ## Project & Mini-Project
 
-- 14 - 17 July 2023: ค่ายYWC19 (detail...)
+- TMD
  
 ## What you learned
 
