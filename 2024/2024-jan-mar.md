@@ -15,7 +15,8 @@
 
 ## What you learned
 
-- TMD
+- การพัฒนาด้านการสื่อสาร ที่ได้มาจากการสอน class procreate
+- การทำ animation css 
 
 ## Summary
 
