@@ -16,12 +16,5 @@
 ## What you learned
 
 - การพัฒนาด้านการสื่อสาร ที่ได้มาจากการสอน class procreate
-- การทำ animation css 
-
-## Summary
-
-- TMD
-
-
-
-
+- การทำ animation css สำหรับหน้า web site ให้มีความหน้าสนใจ
+- nest api สำหรับการ generate pdf ที่ลองรับภาษาไทย
