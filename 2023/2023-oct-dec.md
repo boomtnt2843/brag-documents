@@ -2,7 +2,7 @@
 
 ## Project & Mini-Project
 
-- การเขียน golang ในการทำแบบ dev container [example](https://github.com/boomtnt2843/go-dev-container)
+- การเขียน golang ในการทำแบบ dev container : [example](https://github.com/boomtnt2843/go-dev-container)
 
 ## What you learned
 
